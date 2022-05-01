@@ -1,4 +1,9 @@
 ### Hi there 👋
+This is Luis. I'm a physicist and a self-taught developer.
+
+- 🔭 I'm currently working on building my own project with MERN Stack.
+- 🌱 I’m currently learning React, NodeJS, Express and MongoDB.
+- 🤔 I’m looking for help with MERN projects.
 
 <!--
 **lemartinezm/lemartinezm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
